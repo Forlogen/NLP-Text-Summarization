@@ -3,7 +3,7 @@
 
 
 
-[**Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond**](<https://github.com/Forlogen/NLP-Text Summarization/blob/master/papers/CoNLL%202016%20Abstractive%20Text%20Summarization%20using%20Sequence-to-sequence%20RNNs%20and%20Beyond.pdf>8)
+[**Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond**](<https://github.com/Forlogen/NLP-Text-Summarization/blob/master/papers/CoNLL%202016%20Abstractive%20Text%20Summarization%20using%20Sequence-to-sequence%20RNNs%20and%20Beyond.pdf>8)
 
 
 
