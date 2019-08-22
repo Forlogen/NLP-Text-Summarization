@@ -60,3 +60,6 @@
 
 **[NAACL 2016 Abstractive Sentence Summarization with Attentive Recurrent Neural Networks](https://www.aclweb.org/anthology/N16-1012)**
 
+
+**[NAACL 2019 An Integrated Approach for Keyphrase Generation via Exploring the Power of Retrieval and Extraction](https://arxiv.org/pdf/1904.03454.pdf)**
+
